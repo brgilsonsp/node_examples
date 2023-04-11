@@ -7,7 +7,8 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"tomoki1207.pdf"
+				"tomoki1207.pdf",
+				"formulahendry.code-runner"
 			]
 		}
 	}
